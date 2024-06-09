@@ -9,6 +9,10 @@
 # IP-CIDR6: 4
 # USER-AGENT: 31
 # TOTAL: 3752
+DOMAIN,appmy.bjcdc.org
+DOMAIN-SUFFIX,114yygh.com
+DOMAIN-SUFFIX,ngarihealth.com
+DOMAIN-SUFFIX,bjhsyuntai.com
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
