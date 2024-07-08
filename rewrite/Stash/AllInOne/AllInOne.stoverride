@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-06-22 02:14:49
+desc: 最后更新时间 2024-07-07 02:13:14
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 666
-# mitm: 701
+# reject: 668
+# mitm: 703
 # force-http-engine-hosts: 6
-# total: 1412
+# total: 1416
 
 
 
@@ -131,6 +131,7 @@ http:
     - ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
     - ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
     - ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+    - ^https?:\/\/(commontgw|comapi)\.reader\.qq\.com\/(common\/adV|com-ad\/config) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/.+\.jpg_(9\d{2}|\d{4}) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/.+\d{4}-\d{4}\.jpg_(9\d{2}|\d{4}) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3,4}-\d{4}\.jpg_(1\d{3}|9\d{2})x(1\d{3}|9\d{2})q90\.jpg_\.(heic|webp)$ - reject
@@ -393,6 +394,7 @@ http:
     - ^https?:\/\/ftapi\.10jqka\.com\.cn\/futgwapi\/api\/om\/v\d\/ad\/common\/transfer - reject
     - ^https?:\/\/fuss10\.elemecdn\.com\/.+?\.mp4 - reject
     - ^https?:\/\/fuss10\.elemecdn\.com\/.+?\/w\/640\/h\/\d{3,4} - reject
+    - ^https?:\/\/fuwu\.nhsa\.gov\.cn\/ebus\/fuwu\/api\/base\/cms\/iep\/web\/cms\/hmpgcfg\/queryAppHmpgCfgByApp - reject
     - ^https?:\/\/g\.alicdn\.com\/living\/mesh-std-spec - reject
     - ^https?:\/\/gab\.122\.gov\.cn\/eapp\/m\/sysquery - reject
     - ^https?:\/\/games\.mobileapi\.hupu\.com\/.+?\/(search|interfaceAdMonitor|status|hupuBbsPm)/(hotkey|init|hupuBbsPm)\. - reject
@@ -914,6 +916,7 @@ http:
     - "*.ott.cibntv.net"
     - "*.peopleapp.com"
     - "*.qyfxgd.cn"
+    - "*.reader.qq.com"
     - "*.smkj33.top"
     - "*.tipatipa.xyz"
     - "*.tslt.xyz"
@@ -1203,6 +1206,7 @@ http:
     - "fscdn.zto.com"
     - "ftapi.10jqka.com.cn"
     - "fuss10.elemecdn.com"
+    - "fuwu.nhsa.gov.cn"
     - "g.alicdn.com"
     - "g.syshhc.top"
     - "gab.122.gov.cn"

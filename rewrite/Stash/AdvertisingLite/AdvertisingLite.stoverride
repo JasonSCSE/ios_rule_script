@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-06-30 02:13:54
+desc: 最后更新时间 2024-07-08 02:14:11
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1092
-# mitm: 806
+# reject: 1096
+# mitm: 809
 # force-http-engine-hosts: 6
-# total: 1904
+# total: 1911
 
 
 
@@ -40,6 +40,7 @@ http:
     - ^https:\/\/api\.ulife\.group\/market\/frontEntrance\/getThirdAdvertising\?displayPort=1&type=15 - reject
     - ^https:\/\/api\.ulife\.group\/market\/memberCard\/listMemberCard\?isShowSecondaryCard=1 - reject
     - ^https:\/\/api\.ulife\.group\/signintask\/adServing - reject
+    - ^https:\/\/appapi\.caiyicloud\.com\/cyy_gatewayapi\/home\/pub\/v3\/banners\/app_start_page - reject
     - ^https:\/\/ccmsupport-sz\.tenpay\.com\/cgi-bin\/common\/ccm_page_element.cgi - reject
     - ^https:\/\/cdke\.youdao\.com\/course3\/recommend\/dict\/startup - reject
     - ^https:\/\/chat-live\.soulapp\.cn\/live\/planet\/recListV2 - reject
@@ -55,7 +56,6 @@ http:
     - ^https:\/\/hdgateway\.zto\.com\/listJumperShow - reject
     - ^https:\/\/hdgateway\.zto\.com\/track - reject
     - ^https:\/\/heic\.alicdn\.com\/imgextra\/i\d\/\d*\/?[\w!]+-\d-(octopus|tps-1125-1602|tps-1080-1920)\.(jp|pn)g_(1\d{3}|9\d{2})x(1\d{3}|9\d{2})q[59]0 - reject
-    - ^https:\/\/imcs\.citicbank\.com\/cloud\/([a-fA-F0-9]{32})\.(jpg|png) - reject
     - ^https:\/\/imcs\.citicbank\.com\/cloud\/.+(1125.+2436|1242.+2688) - reject
     - ^https:\/\/img01\.51jobcdn\.com\/im\/mkt/(?:tg/((19|20)\d{2})banner/(?!jcgz2/)|\d{4}/bd/\d{4}/).*\.jpg - reject
     - ^https:\/\/live\.inst-service\.htsc\.com\/live - reject
@@ -97,6 +97,7 @@ http:
     - ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
     - ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
     - ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+    - ^https?:\/\/(commontgw|comapi)\.reader\.qq\.com\/(common\/adV|com-ad\/config) - reject
     - ^https?:\/\/(ec|c)api\.lkcoffee\.com\/resource\/m\/eorder\/product\/popAppTagProductList - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/.+\.jpg_(9\d{2}|\d{4}) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/[\w\/.-]+\.jpg_(9\d{2}|\d{4}) - reject
@@ -355,6 +356,8 @@ http:
     - ^https?:\/\/app\.yinxiang\.com\/ads\/ - reject
     - ^https?:\/\/app\.zhoudamozi\.com\/ad\/.+ - reject
     - ^https?:\/\/app\.zhuanzhuan\.com\/zz\/transfer\/userred\?scene=homePage - reject
+    - ^https?:\/\/app\.zhuanzhuan\.com\/zz\/v2\/zzlogic\/getOpenScreen - reject
+    - ^https?:\/\/app\.zhuanzhuan\.com\/zzopen\/popwindow\/getallpopwin\? - reject
     - ^https?:\/\/app\.zhuanzhuan\.com\/zzx\/transfer\/getConfigInfo$ - reject
     - ^https?:\/\/appactive\.1234567\.com\.cn\/AppoperationApi\/OperationService\/GetAppStartImg - reject
     - ^https?:\/\/appapi\.51job\.com\/api\/market\/(adtrace|get_launch|get_prompt) - reject
@@ -971,6 +974,7 @@ http:
     - ^https?:\/\/staticlive\.douyucdn\.cn\/.+?\/getStartSend - reject
     - ^https?:\/\/staticlive\.douyucdn\.cn\/upload\/signs\/ - reject
     - ^https?:\/\/staticsns\.cdn\.bcebos\.com\/amis\/.+/banner.png - reject
+    - ^https?:\/\/statistic\.live\.126\.net\/statics\/report\/common\/form - reject
     - ^https?:\/\/status\.boohee\.com\/api\/v\d\/app_square\/start_up_with_ad - reject
     - ^https?:\/\/superapp\.xgimi\.com\/api/v1\/app\/ad\/configs\?_sort=createdAt:Adesc - reject
     - ^https?:\/\/support\.you\.163\.com\/appversync\/check.do - reject
@@ -1118,6 +1122,7 @@ http:
   mitm:
     - "*.beacon.qq.com"
     - "*.ott.cibntv.net"
+    - "*.reader.qq.com"
     - "*.tv.sohu.com"
     - "3g.csair.com"
     - "3gimg.qq.com"
@@ -1321,6 +1326,7 @@ http:
     - "app3.qdaily.com"
     - "appactive.1234567.com.cn"
     - "appapi.51job.com"
+    - "appapi.caiyicloud.com"
     - "appapi.huazhu.com"
     - "appconf.mail.163.com"
     - "appdmkj.5idream.net"
@@ -1815,6 +1821,7 @@ http:
     - "static01.versa-ai.com"
     - "staticlive.douyucdn.cn"
     - "staticsns.cdn.bcebos.com"
+    - "statistic.live.126.net"
     - "status.boohee.com"
     - "superapp.xgimi.com"
     - "support.you.163.com"
