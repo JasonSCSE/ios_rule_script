@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2024-07-09 02:14:08
+desc: 最后更新时间 2024-07-15 02:19:23
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 700
-# mitm: 656
+# reject: 703
+# mitm: 658
 # force-http-engine-hosts: 6
-# total: 1362
+# total: 1367
 
 
 
@@ -174,6 +174,7 @@ http:
     - ^https?:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show - reject
     - ^https?:\/\/ad\.cj\.sina\.cn\/(osa\/adpreload|fax\/impress) - reject
     - ^https?:\/\/ad\.lofter\.com\/.*yitou\/madr - reject
+    - ^https?:\/\/ad\.mcloud\.139\.com\/advertapi - reject
     - ^https?:\/\/ad\.mcloud\.139\.com\/advertapi\/adv-filter\/adv-filter\/AdInfoFilter\/getAdInfos$ - reject
     - ^https?:\/\/adapi\.izuiyou\.com\/ - reject
     - ^https?:\/\/adm\.10jqka\.com\.cn\/interface\/ad\/recommend - reject
@@ -249,6 +250,7 @@ http:
     - ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start - reject
     - ^https?:\/\/api\.m\.mi\.com\/v\d\/app\/start - reject
     - ^https?:\/\/api\.mcd\.cn\/bff\/portal\/(richpop|home\/splash) - reject
+    - ^https?:\/\/api\.medlive\.cn\/promotion-api/adlist - reject
     - ^https?:\/\/api\.merach\.com\/app\/AppAdvertisingController\/getAdvert - reject
     - ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
     - ^https?:\/\/api\.psy-1\.com\/cosleep\/startup - reject
@@ -618,6 +620,7 @@ http:
     - ^https?:\/\/shopapi\.io\.mi\.com\/mtop\/mf\/resource\/homePage\/pageConfig - reject
     - ^https?:\/\/shopic\.sf-express\.com\/crm\/mobile\/common\/flashscreen - reject
     - ^https?:\/\/smkmp\.96225\.com\/smkcenter\/ad/ - reject
+    - ^https?:\/\/smsrebuild1\.mail\.10086\.cn\/together\/s - reject
     - ^https?:\/\/snailsleep\.net\/snail\/v1\/adTask\/ - reject
     - ^https?:\/\/snailsleep\.net\/snail\/v\d\/screen\/qn\/get\? - reject
     - ^https?:\/\/sns\.amap\.com\/ws\/msgbox\/pull? - reject
@@ -869,6 +872,7 @@ http:
     - "api.m.mi.com"
     - "api.maoyan.com"
     - "api.mcd.cn"
+    - "api.medlive.cn"
     - "api.merach.com"
     - "api.mgzf.com"
     - "api.mwee.cn"
@@ -1271,6 +1275,7 @@ http:
     - "shopic.sf-express.com"
     - "smarket.dian.so"
     - "smkmp.96225.com"
+    - "smsrebuild1.mail.10086.cn"
     - "snailsleep.net"
     - "sns.amap.com"
     - "sp.kaola.com"
