@@ -1,16 +1,16 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-08-05 02:07:56
+# UPDATED: 2024-08-07 02:09:46
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 3
 # DOMAIN: 16327
-# DOMAIN-KEYWORD: 260
-# DOMAIN-SUFFIX: 135314
+# DOMAIN-KEYWORD: 259
+# DOMAIN-SUFFIX: 135365
 # IP-CIDR: 445
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 152362
+# TOTAL: 152412
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -1309,6 +1309,7 @@
 .25ktra.cn
 .25ku.com
 .25obpfr.de
+.2619374464.com
 .2639iqjkl.de
 .26485.top
 .265958.com
@@ -1963,6 +1964,7 @@
 .40ic.cn
 .40nuggets.com
 .411playz.com
+.4126fe80.xyz
 .4135.com
 .413dfe9f11.com
 .4140690839.com
@@ -3527,6 +3529,7 @@
 .930cn.top
 .933aaa9228923a.com
 .93453074ab3e3.com
+.9354ee72.xyz
 .935cfb1d3b.com
 .9377.cn
 .937744.com
@@ -3925,6 +3928,7 @@
 .a.hcaptcha.com
 .a.heavy-r.com
 .a.hellowork.com
+.a.herto.xyz
 .a.hibbett.com
 .a.highroadsolution.com
 .a.hjart-lungfonden.se
@@ -5996,6 +6000,7 @@
 .abie12.top
 .abie25.top
 .abie9.top
+.abjalrq.cn
 .abjectionblame.com
 .abjectionomnipresent.com
 .abjectionpatheticcoloured.com
@@ -8567,6 +8572,7 @@
 .admin-vayvonvietthanh.com
 .admin.academyforconsciousleadership.net
 .admin.digitalacre.com
+.admin.giaminhmedia.vn
 .admin.hotkeys.com
 .admin.louxia.org
 .admin.net.fidorbank.uk
@@ -9092,6 +9098,7 @@
 .ads.allsites.com
 .ads.allvertical.com
 .ads.almasdarnews.com
+.ads.alobacsi.vn
 .ads.alt.com
 .ads.amazingmedia.com
 .ads.amdmb.com
@@ -9314,6 +9321,7 @@
 .ads.gencgazete.net
 .ads.gercekgundem.com
 .ads.getlucky.com
+.ads.giaminhmedia.vn
 .ads.gionee.com
 .ads.gld.dk
 .ads.globo.com
@@ -9403,6 +9411,7 @@
 .ads.karzar.net
 .ads.kelbymediagroup.com
 .ads.kelkoo.com
+.ads.ketnoitatca.net
 .ads.kiemsat.vn
 .ads.kinxxx.com
 .ads.kmib.co.kr
@@ -10533,6 +10542,7 @@
 .adv.autosurf.vn
 .adv.bandi.so
 .adv.baoangiang.com.vn
+.adv.baotayninh.vn
 .adv.baotintuc.vn
 .adv.baovemoitruong.org.vn
 .adv.bbanner.it
@@ -12475,6 +12485,7 @@
 .aloftrecedestatistics.com
 .aloha-news.net
 .aloha.getoperand.com
+.alojamientocentroleon.es
 .alonehepatitisenough.com
 .alonelybansela.digital
 .alongsidelizard.com
@@ -12855,6 +12866,7 @@
 .ams.fx678.com
 .ams.lelong.com.my
 .ams.lenovomm.com
+.ams.naturalnews.com
 .ams.oraclecloud.com
 .ams900.goo.ne.jp
 .amshirethfne.xyz
@@ -16909,6 +16921,7 @@
 .awzddev.cn
 .awzvpbg.com
 .ax.120ask.com
+.ax.amnezia.org
 .ax.babe.today
 .ax.ggfeng.com
 .ax.idg.se
@@ -16925,6 +16938,7 @@
 .axeldivision.com
 .axelsermit.com
 .axentis.arclogics.com
+.axepallorstraits.com
 .axeptio.eu
 .axesequelplant.com
 .axf8.net
@@ -17494,6 +17508,7 @@
 .ba.kioskea.net
 .ba01520b8b.com
 .ba0182aa75.com
+.ba0bf98c.xyz
 .ba138901a1dd4534b2d0.com
 .ba46b70722.com
 .ba488608ee.com
@@ -33374,6 +33389,7 @@
 .de214f.xyz
 .de2nsnw1i3egd.cloudfront.net
 .deacon.ghfkk.com
+.dead-put.com
 .deadlinefunnel.com
 .deadly-variety.pro
 .deadlyheart.pro
@@ -42119,6 +42135,7 @@
 .eyuwkbw.top
 .eywvko.shaddy.jp
 .eyyicbskhglf.com
+.eyyngo.xyz
 .eyypxz.canifa.com
 .eyyqwd.icu
 .eyzubm.gooutdoors.co.uk
@@ -51101,6 +51118,7 @@
 .happi.cyou
 .happilydestructive.com
 .happy-davinci-53144f.netlify.com
+.happydate.today
 .happyfresh.fr
 .happyholidays.coniferhealth.com
 .happylifebab.com
@@ -59326,6 +59344,7 @@
 .jav.ee
 .jav23.com
 .java8.xyz
+.javabsence11.fun
 .javacid.fun
 .javacript.cf
 .javacript.gq
@@ -59341,8 +59360,11 @@
 .javguru.gggsss.site
 .javhd.com
 .javjean.fun
+.javlicense11.fun
+.javmanager11.fun
 .javmilk.org
 .javmust.fun
+.javpremium11.fun
 .javtype.fun
 .javvso.newone-shop.com
 .jawholeminable.com
@@ -59639,6 +59661,7 @@
 .jenxsw21lb.com
 .jeoawamjbbelw.top
 .jeoawamjbblkq.top
+.jeoawamjbbzjy.top
 .jeoawamjbrvkb.top
 .jeopardizeflirting.com
 .jeopardizegovernor.com
@@ -60551,6 +60574,7 @@
 .jpmdwnhazw.com
 .jpmldwvjqd.xyz
 .jponmlkj.carte-gr.total.fr
+.jpooavwizlvf.com
 .jpovulldaghw.com
 .jppolid-track.trackprod.integration.jppol.dk
 .jppxnhe.xyz
@@ -60589,6 +60613,7 @@
 .jqlqmeveax.com
 .jqluhrwlfwsgdd.com
 .jqlumzbdtet.com
+.jqmebwvmbrvz.top
 .jqmebwvmbzrz.top
 .jqmebwvmbzwy.top
 .jqmrqgaunex.ru
@@ -61559,6 +61584,7 @@
 .kaoelsng.com
 .kaorpyqtjjld.com
 .kaosts.com
+.kapetracking.com
 .kapitalberg.com
 .kapitalrus.ru
 .kaplay.com
@@ -64773,6 +64799,7 @@
 .letitnews.com
 .letitredir.com
 .letitsoft.com
+.letlwsl.top
 .letmefind.co
 .letmelook.net
 .letopreseynatc.org
@@ -65095,6 +65122,7 @@
 .licmiwot.com
 .licted.com
 .liczniki.org
+.lidburger.com
 .liddenlywilli.org
 .liddingremorse.digital
 .lidebo.com
@@ -68548,6 +68576,7 @@
 .lyssapebble.com
 .lythonefa.com
 .lythrumnoetics.website
+.lyticaframeofm.com
 .lytics.findairpods.com
 .lytics.io
 .lytiks.com
@@ -76386,6 +76415,7 @@
 .mqxnid.cn
 .mqznjujv.xyz
 .mr-ginseng.fr
+.mr-in.com
 .mr-rank.de
 .mr.homedepot.ca
 .mr087.cn
@@ -82721,6 +82751,7 @@
 .oppxzerrufhe.com
 .opqsr.com
 .oprece.xyz
+.opreseynatcreativei.com
 .oprill.com
 .oproi.com
 .opromo.com
@@ -85300,6 +85331,7 @@
 .peevishchosen.com
 .peevishforceless.com
 .peevishrace.com
+.pefeyyuguqsg.com
 .pegablackjal.com
 .pegah.tech
 .pegasus.cmcm.com
@@ -86716,6 +86748,7 @@
 .pjsefaqzyjv.com
 .pjshw.cn
 .pjslwort.com
+.pjsos.xyz
 .pjstat.com
 .pjtra.com
 .pjtxmd.epool.ru
@@ -91789,6 +91822,7 @@
 .qwrwawwmblybj.top
 .qwsanan.top
 .qwtag.com
+.qwuaqrxfuohb.com
 .qwvqbeqwbrabj.top
 .qwvv.com
 .qwvvoaykybbo.top
@@ -91975,6 +92009,7 @@
 .r.yabancidizi.in
 .r.z2.fm
 .r.z3.fm
+.r01lacou.azidp.tech
 .r023m83skv5v.com
 .r0wa9z6t8t.ru
 .r1.ati.su
@@ -98061,6 +98096,7 @@
 .searchplow.com
 .searchramp.com
 .searchrespectivelypotency.com
+.searchresultsadblocker.com
 .searchsecurer.com
 .searchswapper.com
 .searchtds.ru
@@ -105055,6 +105091,7 @@
 .soccertakeover.com
 .soccup.com
 .socde.com
+.socdem-enrich.getshop.tv
 .socgate.ru
 .sochetat.net
 .sochr.com
@@ -115416,6 +115453,7 @@
 .tmnbocewmddu.com
 .tmnsstf.com
 .tmochyf.cn
+.tmoclbf.icu
 .tmozs.com
 .tmpbr.getgifted.com
 .tmrhoe2.com
@@ -116408,6 +116446,7 @@
 .tr.cypruspremiervacations.com
 .tr.datanyze.com
 .tr.datatrics.com
+.tr.dec-connect.decsuite.com
 .tr.demo.np6.com
 .tr.designoutlet-contact.fr
 .tr.devis-companeo.be
@@ -117869,6 +117908,7 @@
 .tracking-widget.fillr.com
 .tracking.1-a1502-bi.co.uk
 .tracking.10e20.com
+.tracking.10gb.vn
 .tracking.196189.com
 .tracking.21-a4652-bi.co.uk
 .tracking.28-91473-wbm.co.uk
@@ -118531,6 +118571,7 @@
 .tracking.sabic.com
 .tracking.sailgp.com
 .tracking.salaallehanda.com
+.tracking.saostar.vn
 .tracking.schneider.com
 .tracking.schokoladies.de
 .tracking.sciex.com
@@ -120679,6 +120720,7 @@
 .twentydruggeddumb.com
 .twentyexaggerate.com
 .twentyqueen.com
+.twerilxi.top
 .twerioi.top
 .twerwew.org
 .twgzgqqu.com
@@ -120944,6 +120986,7 @@
 .tzvroyuhmkvlsa.com
 .tzwaw.pw
 .tzyjotwoocku.com
+.tzyzlow.cn
 .u-50-rbdm.com
 .u-ad.info
 .u-mob.cn
@@ -123139,12 +123182,14 @@
 .uvpzll.com
 .uvqvvh.avva.com.tr
 .uvrdhasvzal.com
+.uvrecussing.shop
 .uvsea.cn
 .uvsvlisbartwq.com
 .uvtuiks.com
 .uvwelvnydoy.com
 .uvwtmppnbqgzha.com
 .uvxclrl.com
+.uvyuqzx.cn
 .uvzomxvbpbgo.com
 .uvzrtq.livingspaces.com
 .uvzsmwfxa.com
@@ -126387,6 +126432,7 @@
 .w.x.baidu.com
 .w.xiaopiaoyou.com
 .w.zenback.jp
+.w0054.com
 .w0057.com
 .w0079.com
 .w0082.com
@@ -128916,6 +128962,7 @@
 .wmcdp.io
 .wmcdpt.com
 .wmclickz.ru
+.wmdlgzwr.com
 .wmdymnqzhbo.com
 .wmdzefk.com
 .wmemsnhgldd.ru
@@ -129705,6 +129752,7 @@
 .wumufama.com
 .wundercounter.com
 .wunderloop.net
+.wunishamjch.com
 .wunteetoco.com
 .wuombkpa.com
 .wup.imtt.qq.com
@@ -131460,6 +131508,7 @@
 .xljqqe.hsn.com
 .xlkdbbvy.xyz
 .xlmc.sandai.net
+.xlmdtiyqbkygtfkh.com
 .xlmygeuxtv.com
 .xlnuj.com
 .xlnvvbk.xyz
@@ -132955,6 +133004,7 @@
 .ykskhw.candytm.pl
 .yktj.yzz.cn
 .ykujch.icu
+.ykwykw.xyz
 .ykxafzdu.xyz
 .ykxscghselpj.com
 .ykxwn.com
@@ -135009,6 +135059,7 @@
 .zsjyc.top
 .zskuvehuihkusp.com
 .zslhmw.com
+.zsmhlv.zgbv.tech
 .zsnfdphz.com
 .zsrqmgvb.com
 .zstjy.com

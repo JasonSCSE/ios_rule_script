@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2024-08-05 02:08:07
-! Total: 151641
+! Updated: 2024-08-07 02:09:56
+! Total: 151692
 
 
 ||0.code.cotsta.ru^
@@ -1140,6 +1140,7 @@
 ||25ktra.cn^
 ||25ku.com^
 ||25obpfr.de^
+||2619374464.com^
 ||2639iqjkl.de^
 ||26485.top^
 ||2685da0b4d.com^
@@ -1668,6 +1669,7 @@
 ||40f380afa3.com^
 ||40nuggets.com^
 ||411playz.com^
+||4126fe80.xyz^
 ||4135.com^
 ||413dfe9f11.com^
 ||4140690839.com^
@@ -2841,6 +2843,7 @@
 ||92ph.cn^
 ||92sales.com^
 ||930cn.top^
+||9354ee72.xyz^
 ||935cfb1d3b.com^
 ||937744.com^
 ||937785.com^
@@ -3088,6 +3091,7 @@
 ||a.fobos.tv^
 ||a.guzhilin.com^
 ||a.hbf23.cn^
+||a.herto.xyz^
 ||a.huocheba.com^
 ||a.iprima.cz^
 ||a.iy.com.cn^
@@ -3490,6 +3494,7 @@
 ||abidedfloria.website^
 ||abidepeachy.com^
 ||abiderestless.com^
+||abjalrq.cn^
 ||abjectionblame.com^
 ||abjectionomnipresent.com^
 ||abjectionpatheticcoloured.com^
@@ -5233,6 +5238,7 @@
 ||admilk.ru^
 ||admin-vayvonvietthanh.com^
 ||admin.digitalacre.com^
+||admin.giaminhmedia.vn^
 ||admin.hotkeys.com^
 ||admin.panda.bns.17kxgame.com^
 ||admin.phunusuckhoe.vn^
@@ -5660,6 +5666,7 @@
 ||ads.allsites.com^
 ||ads.allvertical.com^
 ||ads.almasdarnews.com^
+||ads.alobacsi.vn^
 ||ads.alt.com^
 ||ads.amazingmedia.com^
 ||ads.amdmb.com^
@@ -5883,6 +5890,7 @@
 ||ads.gencgazete.net^
 ||ads.gercekgundem.com^
 ||ads.getlucky.com^
+||ads.giaminhmedia.vn^
 ||ads.gld.dk^
 ||ads.globo.com^
 ||ads.go2net.com.ua^
@@ -5969,6 +5977,7 @@
 ||ads.karzar.net^
 ||ads.kelbymediagroup.com^
 ||ads.kelkoo.com^
+||ads.ketnoitatca.net^
 ||ads.kiemsat.vn^
 ||ads.kinxxx.com^
 ||ads.kmib.co.kr^
@@ -7000,6 +7009,7 @@
 ||adv.anhsangvacuocsong.vn^
 ||adv.autosurf.vn^
 ||adv.baoangiang.com.vn^
+||adv.baotayninh.vn^
 ||adv.baotintuc.vn^
 ||adv.baovemoitruong.org.vn^
 ||adv.bbanner.it^
@@ -8613,6 +8623,7 @@
 ||aloftloan.com^
 ||aloftrecedestatistics.com^
 ||aloha-news.net^
+||alojamientocentroleon.es^
 ||alonehepatitisenough.com^
 ||alonelybansela.digital^
 ||alongsidelizard.com^
@@ -8933,6 +8944,7 @@
 ||amqxvwmsfn.xyz^
 ||amre.work^
 ||amrtbbnr.com^
+||ams.naturalnews.com^
 ||ams900.goo.ne.jp^
 ||amshirethfne.xyz^
 ||amshroomishan.com^
@@ -11563,6 +11575,7 @@
 ||awzbijw.com^
 ||awzddev.cn^
 ||awzvpbg.com^
+||ax.amnezia.org^
 ||ax.mpcdn.top^
 ||ax.xrea.com^
 ||ax7fv.space^
@@ -11574,6 +11587,7 @@
 ||axductile.com^
 ||axeldivision.com^
 ||axelsermit.com^
+||axepallorstraits.com^
 ||axeptio.eu^
 ||axesequelplant.com^
 ||axf8.net^
@@ -11875,6 +11889,7 @@
 ||ba.afl.rakuten.co.jp^
 ||ba01520b8b.com^
 ||ba0182aa75.com^
+||ba0bf98c.xyz^
 ||ba46b70722.com^
 ||ba488608ee.com^
 ||ba83df6e74.com^
@@ -24006,6 +24021,7 @@
 ||de17a.com^
 ||de214f.xyz^
 ||de2nsnw1i3egd.cloudfront.net^
+||dead-put.com^
 ||deadlinefunnel.com^
 ||deadly-variety.pro^
 ||deadlyheart.pro^
@@ -30168,6 +30184,7 @@
 ||eytheed.com^
 ||eyuwkbw.top^
 ||eyyicbskhglf.com^
+||eyyngo.xyz^
 ||eyyqwd.icu^
 ||ezacci.xyz^
 ||ezaicmee.xyz^
@@ -34351,7 +34368,6 @@
 ||gettraff.com^
 ||gettraffnews.com^
 ||gettubetv.com^
-||getui.net^
 ||getuplinks.ru^
 ||getupwoleai.com^
 ||getvideoz.click^
@@ -36894,6 +36910,7 @@
 ||happi.cyou^
 ||happilydestructive.com^
 ||happy-davinci-53144f.netlify.com^
+||happydate.today^
 ||happyfresh.fr^
 ||happymuttere.org^
 ||happypasteheat.com^
@@ -42382,6 +42399,7 @@
 ||jav-7mmtv.top^
 ||jav.ee^
 ||java8.xyz^
+||javabsence11.fun^
 ||javacid.fun^
 ||javacript.cf^
 ||javacript.gq^
@@ -42400,8 +42418,11 @@
 ||javgulf.fun^
 ||javguru.gggsss.site^
 ||javjean.fun^
+||javlicense11.fun^
+||javmanager11.fun^
 ||javmilk.org^
 ||javmust.fun^
+||javpremium11.fun^
 ||javtype.fun^
 ||jawholeminable.com^
 ||jawinfallible.com^
@@ -42601,6 +42622,7 @@
 ||jenxsw21lb.com^
 ||jeoawamjbbelw.top^
 ||jeoawamjbblkq.top^
+||jeoawamjbbzjy.top^
 ||jeoawamjbrvkb.top^
 ||jeopardizeflirting.com^
 ||jeopardizegovernor.com^
@@ -43241,6 +43263,7 @@
 ||jpivxtsxpkn.com^
 ||jpmdwnhazw.com^
 ||jpmldwvjqd.xyz^
+||jpooavwizlvf.com^
 ||jpovulldaghw.com^
 ||jppxnhe.xyz^
 ||jpqed.xyz^
@@ -43271,6 +43294,7 @@
 ||jqlqmeveax.com^
 ||jqluhrwlfwsgdd.com^
 ||jqlumzbdtet.com^
+||jqmebwvmbrvz.top^
 ||jqmebwvmbzrz.top^
 ||jqmebwvmbzwy.top^
 ||jqmrqgaunex.ru^
@@ -43995,6 +44019,7 @@
 ||kaoelsng.com^
 ||kaorpyqtjjld.com^
 ||kaosts.com^
+||kapetracking.com^
 ||kapitalberg.com^
 ||kapitalrus.ru^
 ||kaplay.com^
@@ -46599,6 +46624,7 @@
 ||letitnews.com^
 ||letitredir.com^
 ||letitsoft.com^
+||letlwsl.top^
 ||letmefind.co^
 ||letmelook.net^
 ||letopreseynatc.org^
@@ -46844,6 +46870,7 @@
 ||licmiwot.com^
 ||licted.com^
 ||liczniki.org^
+||lidburger.com^
 ||liddenlywilli.org^
 ||liddingremorse.digital^
 ||lidebo.com^
@@ -48826,6 +48853,7 @@
 ||lyssapebble.com^
 ||lythonefa.com^
 ||lythrumnoetics.website^
+||lyticaframeofm.com^
 ||lytics.io^
 ||lytiks.com^
 ||lytrjx.cn^
@@ -52438,6 +52466,7 @@
 ||mqxnid.cn^
 ||mqznjujv.xyz^
 ||mr-ginseng.fr^
+||mr-in.com^
 ||mr-rank.de^
 ||mr2cnjuh34jb.com^
 ||mr956.xyz^
@@ -57447,6 +57476,7 @@
 ||oppressiveoversightnight.com^
 ||oppxzerrufhe.com^
 ||oprece.xyz^
+||opreseynatcreativei.com^
 ||oprill.com^
 ||oproi.com^
 ||opromo.com^
@@ -59464,6 +59494,7 @@
 ||peevishchosen.com^
 ||peevishforceless.com^
 ||peevishrace.com^
+||pefeyyuguqsg.com^
 ||pegablackjal.com^
 ||pegah.tech^
 ||pegasuson.com^
@@ -60598,6 +60629,7 @@
 ||pjsbuhl.icu^
 ||pjsefaqzyjv.com^
 ||pjslwort.com^
+||pjsos.xyz^
 ||pjtra.com^
 ||pjunnest.cyou^
 ||pjvartonsbewand.info^
@@ -64670,6 +64702,7 @@
 ||qwrwawwmblybj.top^
 ||qwsanan.top^
 ||qwtag.com^
+||qwuaqrxfuohb.com^
 ||qwvqbeqwbrabj.top^
 ||qwvv.com^
 ||qwvvoaykybbo.top^
@@ -64781,6 +64814,7 @@
 ||r.z2.fm^
 ||r.z3.fm^
 ||r0.mradx.net^
+||r01lacou.azidp.tech^
 ||r023m83skv5v.com^
 ||r0wa9z6t8t.ru^
 ||r1.ati.su^
@@ -69321,6 +69355,7 @@
 ||searchplow.com^
 ||searchramp.com^
 ||searchrespectivelypotency.com^
+||searchresultsadblocker.com^
 ||searchsecurer.com^
 ||searchtds.ru^
 ||searchwe.com^
@@ -72356,6 +72391,7 @@
 ||soccertakeover.com^
 ||soccup.com^
 ||socde.com^
+||socdem-enrich.getshop.tv^
 ||socgate.ru^
 ||sochetat.net^
 ||sochr.com^
@@ -78265,6 +78301,7 @@
 ||tmnbocewmddu.com^
 ||tmnsstf.com^
 ||tmochyf.cn^
+||tmoclbf.icu^
 ||tmozs.com^
 ||tmrhoe2.com^
 ||tmrjaghtledm.com^
@@ -78945,6 +78982,7 @@
 ||tr.bigpoint.com^
 ||tr.clients.yellow-agence-internet.com^
 ||tr.datanyze.com^
+||tr.dec-connect.decsuite.com^
 ||tr.ds.kakao.com^
 ||tr.enquete-cpf.ifop.com^
 ||tr.gunosy.com^
@@ -79306,6 +79344,7 @@
 ||tracking-widget.fillr.com^
 ||tracking.1-a1502-bi.co.uk^
 ||tracking.10e20.com^
+||tracking.10gb.vn^
 ||tracking.21-a4652-bi.co.uk^
 ||tracking.28-91473-wbm.co.uk^
 ||tracking.39-bb4a9-osm.co.uk^
@@ -79492,6 +79531,7 @@
 ||tracking.resume.se^
 ||tracking.rus.miui.com^
 ||tracking.salaallehanda.com^
+||tracking.saostar.vn^
 ||tracking.sembox.it^
 ||tracking.shaadi.com^
 ||tracking.shinycolors.enza.fun^
@@ -80817,6 +80857,7 @@
 ||twentydruggeddumb.com^
 ||twentyexaggerate.com^
 ||twentyqueen.com^
+||twerilxi.top^
 ||twerioi.top^
 ||twerwew.org^
 ||twgzgqqu.com^
@@ -81034,6 +81075,7 @@
 ||tzvroyuhmkvlsa.com^
 ||tzwaw.pw^
 ||tzyjotwoocku.com^
+||tzyzlow.cn^
 ||u-50-rbdm.com^
 ||u-ad.info^
 ||u-mob.cn^
@@ -82768,11 +82810,13 @@
 ||uvpqrydt.xyz^
 ||uvpzll.com^
 ||uvrdhasvzal.com^
+||uvrecussing.shop^
 ||uvsvlisbartwq.com^
 ||uvtuiks.com^
 ||uvwelvnydoy.com^
 ||uvwtmppnbqgzha.com^
 ||uvxclrl.com^
+||uvyuqzx.cn^
 ||uvzomxvbpbgo.com^
 ||uvzsmwfxa.com^
 ||uwadpksbkzp.com^
@@ -85617,6 +85661,7 @@
 ||w.anmeihe.cn^
 ||w.inews.qq.com^
 ||w.zenback.jp^
+||w0054.com^
 ||w0057.com^
 ||w0079.com^
 ||w0082.com^
@@ -87484,6 +87529,7 @@
 ||wmcdp.io^
 ||wmcdpt.com^
 ||wmclickz.ru^
+||wmdlgzwr.com^
 ||wmdymnqzhbo.com^
 ||wmdzefk.com^
 ||wmemsnhgldd.ru^
@@ -88108,6 +88154,7 @@
 ||wumufama.com^
 ||wundercounter.com^
 ||wunderloop.net^
+||wunishamjch.com^
 ||wunteetoco.com^
 ||wuombkpa.com^
 ||wuploadandfilesonic.j8inn1zektoe.com^
@@ -89865,6 +89912,7 @@
 ||xlivrdr.com^
 ||xlkdbbvy.xyz^
 ||xlmc.sec.miui.com^
+||xlmdtiyqbkygtfkh.com^
 ||xlmygeuxtv.com^
 ||xlnuj.com^
 ||xlnvvbk.xyz^
@@ -90959,6 +91007,7 @@
 ||ykrwopdxkw.com^
 ||ykugc.cp31.ott.cibntv.net.302.myalicdn.com^
 ||ykujch.icu^
+||ykwykw.xyz^
 ||ykxafzdu.xyz^
 ||ykxscghselpj.com^
 ||yl04z4v.cn^
@@ -92395,6 +92444,7 @@
 ||zsjxwj.com^
 ||zskuvehuihkusp.com^
 ||zslhmw.com^
+||zsmhlv.zgbv.tech^
 ||zsnfdphz.com^
 ||zsoupu.net^
 ||zsrqmgvb.com^
@@ -102175,6 +102225,7 @@
 ||getsupernova.com^
 ||gettipsz.info^
 ||getui.com^
+||getui.net^
 ||getzwnrgsrz.com^
 ||geusihivdqkwzf.com^
 ||gewuwen.com^
