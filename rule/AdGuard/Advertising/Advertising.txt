@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2024-11-18 02:09:08
-! Total: 158816
+! Updated: 2024-11-20 02:09:50
+! Total: 158855
 
 
 ||0.code.cotsta.ru^
@@ -10010,6 +10010,7 @@
 ||anzeigenlieferant.de^
 ||anzu.io^
 ||anzvn.net^
+||ao1118kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
@@ -12005,6 +12006,7 @@
 ||avglfookdjuj.com^
 ||avgsco.xyz^
 ||avhduwvirosl.com^
+||avhjzemp.com^
 ||avhtaapxml.com^
 ||avhxnasqeo.com^
 ||aviatedrasure.top^
@@ -14138,6 +14140,7 @@
 ||besstahete.info^
 ||best-cargo.ru^
 ||best-cdn.pl^
+||best-girls-around.com^
 ||best-lucky-cat.xyz^
 ||best-offer-for-you.com^
 ||best-offers.co.il^
@@ -22951,6 +22954,7 @@
 ||cryonickru.com^
 ||cryorganichash.com^
 ||cryp-o.online^
+||crypto-ads.net^
 ||crypto-coins.com^
 ||crypto-coins.info^
 ||crypto-loot.com^
@@ -23249,6 +23253,7 @@
 ||cuqvlpxjj.xyz^
 ||curalate.com^
 ||curaripeiktha.top^
+||curatekrait.com^
 ||curator.io^
 ||curbimpress.com^
 ||curchannerre.uno^
@@ -27328,6 +27333,7 @@
 ||dmeq7blex6x1u.cloudfront.net^
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
+||dmevejjt.icu^
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmhbbivu.top^
 ||dmiredindeed.com^
@@ -31693,6 +31699,7 @@
 ||exertheadlight.com^
 ||exertionbesiege.com^
 ||exfjpw.com^
+||exgjhawccb.com^
 ||exhalejuxtapose.com^
 ||exhaleveteranbasketball.com^
 ||exhausted-use.pro^
@@ -36036,6 +36043,7 @@
 ||gdyn.cnngo.com^
 ||gdz0cqs.icu^
 ||ge.cn^
+||ge189.com^
 ||ge3shbdf1.fun^
 ||geakr.com^
 ||gearedftnerr.com^
@@ -37528,6 +37536,7 @@
 ||gomsa.ru^
 ||gomtdata.com^
 ||gomtdatacom.xyz^
+||gomucreu.com^
 ||gomusic.info^
 ||gonairoomsoo.xyz^
 ||gonakedowing.com^
@@ -37827,6 +37836,7 @@
 ||gqtnjdflx.com^
 ||gqubkbuinx.com^
 ||gqusbheifyoqubu.com^
+||gquwuefddojikxo.xyz^
 ||gqwwshbdd1.fun^
 ||gr.hdream.cfd^
 ||gr0z6.xyz^
@@ -40037,6 +40047,7 @@
 ||hfjvuxuwasf.com^
 ||hfk128dfs-dsfbheuoys.xyz^
 ||hfk7j.top^
+||hfnuqljjnt.com^
 ||hfnzhczqgdp.com^
 ||hforuvqrgyvbspi.xyz^
 ||hfptbb.cn^
@@ -41881,6 +41892,7 @@
 ||i-shopping888.com^
 ||i-sol-geo.ru^
 ||i-stats.com^
+||i-svzgrtibs.rocks^
 ||i-vengo.com^
 ||i-vietcombank.com^
 ||i.adwise.bg^
@@ -42304,6 +42316,7 @@
 ||ifknittedhurtful.com^
 ||iflgybyab.com^
 ||ifllwfs.com^
+||iflucav.icu^
 ||ifmccdn.icu^
 ||ifmjzbdyk.com^
 ||ifnime.ru^
@@ -43638,6 +43651,7 @@
 ||insistballisticclone.com^
 ||insistent-worker.com^
 ||insistinestimable.com^
+||insistpeerbeef.com^
 ||insitemetrics.com^
 ||insitepromotion.com^
 ||inskinad.com^
@@ -46595,6 +46609,7 @@
 ||jy135.com^
 ||jy147a.com^
 ||jyarkinhechershedt.xyz^
+||jybaekajjmqrz.top^
 ||jybaekajjmroq.top^
 ||jybaekajjmrqw.top^
 ||jycrjkuspyv.fun^
@@ -50896,6 +50911,7 @@
 ||log.goodreels.com^
 ||log.haberturk.com^
 ||log.happyapkdown.com^
+||log.heartratepros.com^
 ||log.hemera.com.vn^
 ||log.iflytek.com^
 ||log.ifood.tv^
@@ -54173,6 +54189,7 @@
 ||mhvllvgrefplg.com^
 ||mhwozc.cn^
 ||mhwpwcj.com^
+||mhwy6.icu^
 ||mhysbwo.xyz^
 ||mhzftye.xyz^
 ||mi.5.p2l.info^
@@ -54728,6 +54745,7 @@
 ||mlefigaro.fr^
 ||mlegyu.xyz^
 ||mlgowell.com^
+||mlgowell.org^
 ||mlgrtn.com^
 ||mlhdmotenu.com^
 ||mlhdvjv.xyz^
@@ -55456,6 +55474,7 @@
 ||moonveto.com^
 ||moonvids.online^
 ||moonvids.space^
+||mooptoasinudy.net^
 ||mooroore.xyz^
 ||moorscliv.life^
 ||moorshoes.com^
@@ -61827,6 +61846,7 @@
 ||outkisslahuli.com^
 ||outlawchillpropose.com^
 ||outlayomnipresentdream.com^
+||outlayreliancevine.com^
 ||outlieazafran.com^
 ||outlineappearbar.com^
 ||outlinesweatraces.com^
@@ -62042,6 +62062,7 @@
 ||owebmoney.ru^
 ||owebsearch.com^
 ||oweeiyw.icu^
+||oweisik.top^
 ||oweltysegnos.website^
 ||owenexposure.com^
 ||oweoumoughtcal.com^
@@ -64256,6 +64277,7 @@
 ||picsti.com^
 ||pictela.net^
 ||pictorialtraverse.com^
+||pictunoctette.com^
 ||picture-uploads.com^
 ||picturecorrespond.com^
 ||pictures-album.com^
@@ -68968,6 +68990,7 @@
 ||qwdbsjnql.com^
 ||qwe.qrrgv.space^
 ||qwe77.com^
+||qweisiy.top^
 ||qweqd.cn^
 ||qwerfdx.com^
 ||qwerioy.top^
@@ -72791,6 +72814,7 @@
 ||s.baomoi.xdn.vn^
 ||s.bl-1.com^
 ||s.boom.ro^
+||s.bussyhunter.com^
 ||s.cartbooster.io^
 ||s.clicktex.ru^
 ||s.cntqk.com^
@@ -76936,6 +76960,7 @@
 ||smetricesh.com^
 ||smetrics.att.com^
 ||smetrics.att.com.edgekey.net^
+||smetrics.avanza.se^
 ||smetrics.citibank.co.id^
 ||smetrics.citibank.com.tw^
 ||smetrics.gemvisa.com.au^
@@ -78213,6 +78238,7 @@
 ||spuncomplaintsapartment.com^
 ||spunkycash.com^
 ||spunkyuntiled.com^
+||spunorientation.com^
 ||spuokstucdk.com^
 ||spuppeh.com^
 ||spuriousair.com^
@@ -79144,6 +79170,7 @@
 ||steepscale.com^
 ||steepsister.com^
 ||steepsquirrel.com^
+||steepuleltou.xyz^
 ||steeringsunshine.com^
 ||steesamax.com^
 ||steessay.com^
@@ -86256,6 +86283,7 @@
 ||tweetdeck.fr^
 ||tweetup.com^
 ||tweezesmalanga.com^
+||tweisii.top^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
 ||twelvemissionjury.com^
@@ -88137,6 +88165,8 @@
 ||usesfathom.com^
 ||usetalentedpunk.com^
 ||usfw2eu.icu^
+||usgowell.com^
+||usgowell.org^
 ||usheeptuthoa.com^
 ||usheredbruting.top^
 ||ushistoari.com^
@@ -88402,6 +88432,7 @@
 ||uwaxoyfklhm.com^
 ||uwayemfogibbgh.xyz^
 ||uwdvcn.com^
+||uweisit.top^
 ||uweqsrwoey.com^
 ||uweriot.top^
 ||uwerpyh.cn^
@@ -93865,6 +93896,7 @@
 ||wpdstat.com^
 ||wpe.red^
 ||wpfc.ml^
+||wpfly-sbpkrd.icu^
 ||wphmavwgay.xyz^
 ||wpiajkniqnty.com^
 ||wpihekqpm.xyz^
@@ -94038,6 +94070,7 @@
 ||wseojloda.com^
 ||wsgayq.xyz^
 ||wsgmcgtbvky.com^
+||wsgnihbh.icu^
 ||wsgwc.com^
 ||wshosting.ru^
 ||wsinterfumes.info^
@@ -94098,6 +94131,7 @@
 ||wtuuilhbfvsiqbo.com^
 ||wtvertnet.com^
 ||wty46.com^
+||wtyankriwnza.com^
 ||wtynalolraz.com^
 ||wtyusie.top^
 ||wtzgaa.com^
@@ -94222,6 +94256,7 @@
 ||wwclicknews.club^
 ||wwclickserv.club^
 ||wwclicktm.club^
+||wweisie.top^
 ||wwemleypftdook.com^
 ||wwerioe.top^
 ||wwfx.xyz^
@@ -97494,6 +97529,7 @@
 ||yr9n47004g.com^
 ||yrarhzuq.xyz^
 ||yrbnfoys.com^
+||yrccils0spqnkc3.xyz^
 ||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
 ||yrdrtzmsmt.com^
@@ -97712,6 +97748,7 @@
 ||yxguqmcemyjiwb.com^
 ||yxhouwezb.site^
 ||yxhstwzjbu.info^
+||yxjcyxy.icu^
 ||yxjnzydc.com^
 ||yxjsibeugmmj.com^
 ||yxkbgg.xyz^
@@ -97813,6 +97850,7 @@
 ||z8o.cn^
 ||z91f4.top^
 ||z929.fuelfix.com^
+||z9uvpwarkk1mnpf.xyz^
 ||za-ads.de^
 ||za.agiay.vn^
 ||za.baomoi.com^
@@ -98217,6 +98255,7 @@
 ||zfvltd.xyz^
 ||zfvsnpir-cxx.buzz^
 ||zfvtswv.xyz^
+||zfwgn.icu^
 ||zfwlnfalxxmwzb.com^
 ||zfwnbsdawitk.com^
 ||zfxtodsxtmw.com^
