@@ -273,6 +273,6 @@ HOST-KEYWORD,announce,PrivateTracker
 HOST-KEYWORD,chdbits,PrivateTracker
 HOST-KEYWORD,m-team,PrivateTracker
 HOST-KEYWORD,torrent,PrivateTracker
-IP-CIDR,207.241.226.111/32,PrivateTracker
-IP-CIDR,207.241.231.226/32,PrivateTracker
-IP-CIDR,52.58.128.163/32,PrivateTracker
+IP-CIDR,207.241.226.111/32,PrivateTracker,no-resolve
+IP-CIDR,207.241.231.226/32,PrivateTracker,no-resolve
+IP-CIDR,52.58.128.163/32,PrivateTracker,no-resolve
